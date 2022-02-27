@@ -1,0 +1,135 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A description of the rhinoceros, lately brought from the East-Indies, and sold the 25th. of this instant August, to Mr. L. for 2320£.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1684</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A81359</idno>
+            <idno type="STC">Wing D1167</idno>
+            <idno type="STC">ESTC R231392</idno>
+            <idno type="EEBO-CITATION">99897287</idno>
+            <idno type="PROQUEST">99897287</idno>
+            <idno type="VID">137008</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A81359)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 137008)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2480:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A description of the rhinoceros, lately brought from the East-Indies, and sold the 25th. of this instant August, to Mr. L. for 2320£.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed for S. Libourn,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1684]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rhinoceroses --  Early works to 1800.</term>
+               <term>Broadsides --  England</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:137008:1" rendition="simple:additions"/>
+            <head>A DESCRIPTION OF THE RHINOCEROS, Lately brought from the Eaſt-INDIES, And ſold the <hi>25th.</hi> of this Inſtant <hi>Auguſt,</hi> to Mr. <hi>L.</hi> for 2320 <hi>l.</hi>
+            </head>
+            <p>THE <hi>Rhinoceros</hi> is accounted the ſecond wonder in Nature; being a Beaſt every way admirable for its outward ſhape and greatneſs, as alſo for its inward courage, diſpoſition, and mild<g ref="char:EOLhyphen"/>neſs. For as the <hi>Elephant</hi> is the firſt wonder, ſo is this Beaſt next to the <hi>Elephant,</hi> being every way as much to be admired as he, if he do not exceed him, except in bulk and height.</p>
+            <p>Firſt of all, that this Beaſt was not unknown to the Ancients, <hi>Pliny, Solinus, Diodorus, Lampridius, Aelianus, Strabo</hi> and others, are moſt undeniable Teſtimonies. <hi>Suetonius</hi> makes mention of one which was publickly ſhown to the People of <hi>Rome</hi> by <hi>Augustus. Holiogabolus</hi> had another, and before either of them <hi>Pomey</hi> pro<g ref="char:EOLhyphen"/>duc'd a <hi>Rhinoceros</hi> in his publick Spectacles; as <hi>Seneca</hi> witneſſes. And <hi>Antonius Pius,</hi> amongſt the Gifts that he beſtowed upon the People, is ſaid to have given them for their publick paſtimes, <hi>Ty<g ref="char:EOLhyphen"/>gers, Rhinoſeruſſes</hi> and other wild Beaſts. And <hi>Martial</hi> in one of his Epigrams, confirms it to us, That in the Reign of <hi>Domitian,</hi> there was a <hi>Rhinoceros,</hi> which in the Emperors preſence toſs'd up a wild Bull into the Air, as if he had been a meer Tennis Ball. And of latter days there was a <hi>Rhinoceros</hi> brought alive to <hi>Lisbon</hi> in <hi>Portugal,</hi> whoſe Picture was taken by <hi>Geſner,</hi> and inſerted into his Hiſtory of Animals, nothing varying from the ſhape and figure of the Beaſt which is now to be ſeen: From whence it is apparent that this is the ſame Beaſt, to which the Ancients gave the Name of <hi>Rhinoceros.</hi>
+            </p>
+            <p>It was called <hi>Rhinoceros</hi> by the <hi>Greeks,</hi> from <hi>Rhin,</hi> which ſigni<g ref="char:EOLhyphen"/>fies a <hi>Noſe,</hi> and <hi>Keras,</hi> a <hi>Horn;</hi> as much as to ſay the <hi>Noſehorn'd</hi> Beaſt. Nor have the <hi>Latins</hi> alter'd the name, in regard, that al<g ref="char:EOLhyphen"/>though there are ſeveral Beaſts that have but one Horn, yet there is not any that has a Horn growing out of the Noſe, but this a<g ref="char:EOLhyphen"/>lone.</p>
+            <pb facs="tcp:137008:2" rendition="simple:additions"/>
+            <p> This Beaſt is alſo thought to be the ſame, which in the <hi>Hebrew</hi> is called <hi>Reem;</hi> and therefore <hi>Munſter</hi> ſo tranſlates the place, <hi>Deut.</hi> 33. <hi>His Beauty ſhall be like the beauty of a Bull, and his Horns like the Horn of a</hi> Rhinoceros, <hi>&amp;c.</hi> And <hi>Tertullian</hi> writing againſt the He<g ref="char:EOLhyphen"/>retick <hi>Praxeas,</hi> tranſlates it after the ſame manner, which being ſo, it appears to have been a Beaſt well known in the World long be<g ref="char:EOLhyphen"/>fore the times of the <hi>Romans</hi> already mentioned.</p>
+            <p>But now to come to the Deſcriptions of this Beaſt (as <hi>Pliny</hi> de<g ref="char:EOLhyphen"/>ſcribes) it is equal in length, if not longer, than an <hi>Elephant,</hi> but withal ſomewhat lower and with ſhorter Leggs; his outward form and proportion being like a wild <hi>Boars,</hi> eſpecially in his Mouth, except, that out of his Noſe grows a Horn harder then any Bone, which he makes uſe of inſtead of Offenſive Arms, as a <hi>Boar</hi> does of his Tuſhes; and that he has two kind of ſcalie <hi>Aprons,</hi> on each ſide, like the Wings of a <hi>Dragon,</hi> reaching from his Back down to his Belly, and ſpreading one way toward his Neck, and the o<g ref="char:EOLhyphen"/>ther way towards his hinder parts; his colour is like the Bark of a <hi>Box-tree,</hi> which is not much unlike that of the <hi>Elephants,</hi> and up<g ref="char:EOLhyphen"/>on his Forehead there grows Hairs that ſeems a little red; his Skin is ſo hard that a dart cannot penetrate it; upon which there ap<g ref="char:EOLhyphen"/>pears many diviſions like the ſhells of a <hi>Tortoiſe,</hi> ſet over with Scales, without any Hair. In like manner the legs are ſcaled down to the very hoofs, which are parted with four diſtinct Claws. Upon his Noſe there grows a hard and ſharp Horn, bending a little toward the Head, but not ſo high; flat and not round; and therefore the more ſharp and ſtrong. Whatever is ſet to it, it either throws up into the Air, or elſe bores it through, whether Iron or Stones.</p>
+            <p>By the way, we are not ſo nicely to conſider the bulk and co<g ref="char:EOLhyphen"/>lour of the <hi>Elephant,</hi> in regard it is but rational to believe, that as among all other Beaſts there is a difference in bigneſs and colour, ſo there may be the ſame variety among theſe <hi>Rhinoceroſses.</hi>
+            </p>
+            <p>As to their Nature and Diſpoſition, <hi>Martiall</hi> makes 'em ſlow to Anger, but fierce when they are engaged; and therefore he ſays, that the <hi>Rhinoceros</hi> was provok'd and vex'd by his Maſter, before he toſſed up the Bull like a Tennis Ball into the Air before <hi>Domi<g ref="char:EOLhyphen"/>tian.</hi> But it is farther ſaid of 'em, that when they are to fight, they whet their Horn upon a Stone, and fight with the <hi>Elephant,</hi> not only for their food but out of a Natural Antipathy, and overcomes the <hi>Elephant</hi> by faſtning their Horns in the lower part of his Belly, and ſo ripping open his Gutts; inſomuch that when the <hi>Rhinoceros</hi> that was at <hi>Lisbon</hi> was brought into the preſence of an <hi>Elephant,</hi> the <hi>Elephant</hi> ran away from him.</p>
+            <p>They are taken as the <hi>
+                  <g ref="char:V">Ʋ</g>nicorn</hi> is taken, for Authors of good credit affirms, that above all Creatures they love Virgins, and that be they never ſo wild, they will lie down and fall a ſleep before a true Maid; and ſo being aſleep are eaſily taken.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>S. Libourn.</hi> 1684.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
